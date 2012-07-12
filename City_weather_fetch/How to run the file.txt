@@ -1,0 +1,6 @@
+1.First,open Visual Studio 2008 IDE and then open City_weather_fetch Solution Explorer provided in zip file in here.
+
+2.Built the WCF c# file and run the City_weather.aspx file in City_web_take folder.
+
+3.In runtime internet should be connected,as I use web service to connent with the Google Weather forcasting XML api 
+  to fetch the weather info and images of a particular city name given from client site. 
